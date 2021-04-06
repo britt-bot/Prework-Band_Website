@@ -2,7 +2,7 @@
 
 ## Description 
 
-This page is one of the first "projects" from the Prework Assignments during the course.
+This page is one of my first "projects". It is one of the Prework Assignments during the bootcamp course.
 
 The project was to create a page with your current knowledge for your favorite band. I don't have a favorite band, so I picked what was playing while I did the assignment. 
 

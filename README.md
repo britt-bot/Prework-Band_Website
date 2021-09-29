@@ -26,7 +26,7 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 [Prework - Module 04 Repo](https://github.com/britt-bot/Prework-Module_04)
 
-[Prework - Module 04 Deployed](https://britt-bot.github.io/Prework-Module_04/)
+[Prework - Module 04 Deploy](https://britt-bot.github.io/Prework-Module_04/)
 
 
 ## Usage 

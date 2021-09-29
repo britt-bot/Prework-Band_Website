@@ -43,7 +43,6 @@ This page was to show what I knew at the time the page was created.
 ## Credits
 
 Flipturn:
-
 [Flipturn](https://flipturn.band/)
 
 
